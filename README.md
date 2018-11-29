@@ -1,1 +1,15 @@
 本项目由先锋团队创作，本人负责数据库和管理端的前后台开发，非个人作品，本作品基于java+MySQL，采用MVC架构，是一个简单的本地医疗系统，有医生端，服务器端和管理端，可供Java爱好者研究学习，使用前请先阅读配置使用说明文档。 注意：本项目仅用于学习交流使用，严禁用于商业用途
+
+![](https://github.com/buchicaodetuzi/FirstProject/blob/master/images/1.PNG)
+![](https://github.com/buchicaodetuzi/FirstProject/blob/master/images/2.PNG)
+![](https://github.com/buchicaodetuzi/FirstProject/blob/master/images/3.PNG)
+![](https://github.com/buchicaodetuzi/FirstProject/blob/master/images/4.PNG)
+![](https://github.com/buchicaodetuzi/FirstProject/blob/master/images/5.PNG)
+![](https://github.com/buchicaodetuzi/FirstProject/blob/master/images/6.PNG)
+![](https://github.com/buchicaodetuzi/FirstProject/blob/master/images/7.PNG)
+![](https://github.com/buchicaodetuzi/FirstProject/blob/master/images/8.PNG)
+![](https://github.com/buchicaodetuzi/FirstProject/blob/master/images/9.PNG)
+![](https://github.com/buchicaodetuzi/FirstProject/blob/master/images/10.PNG)
+![](https://github.com/buchicaodetuzi/FirstProject/blob/master/images/11.PNG)
+![](https://github.com/buchicaodetuzi/FirstProject/blob/master/images/12.PNG)
+![](https://github.com/buchicaodetuzi/FirstProject/blob/master/images/13.PNG)
